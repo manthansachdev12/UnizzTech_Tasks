@@ -27,3 +27,12 @@ The **Currency Converter** is a Java application that converts an amount from on
   - `HttpURLConnection` for API requests.  
   - `DecimalFormat` for formatted output.  
 - **API**: ExchangeRate-API
+
+### Sample Output  
+```text
+Welcome to the Currency Converter!  
+Enter the currency you want to convert from (e.g., USD): USD  
+Enter the currency you want to convert to (e.g., INR): INR  
+Enter the amount you want to convert: 100  
+Exchange rate (USD to INR): 83.45  
+Converted amount: 8345.00 INR  
