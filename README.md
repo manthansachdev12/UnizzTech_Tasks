@@ -35,4 +35,26 @@ Enter the currency you want to convert from (e.g., USD): USD
 Enter the currency you want to convert to (e.g., INR): INR  
 Enter the amount you want to convert: 100  
 Exchange rate (USD to INR): 83.45  
-Converted amount: 8345.00 INR  
+Converted amount: 8345.00 INR
+```
+
+## Week 2: Employee Management System  
+
+### Task Description  
+The **Employee Management System** is a Java application that uses **Swing**, **AWT**, and **MySQL** to manage employee data, including adding, removing, updating, and viewing employee information. This system provides a user-friendly GUI for handling employee records, allowing the user to perform various actions like adding new employees, updating existing records, and removing employees from the database.
+
+### Features  
+1. **Add Employee**: Allows users to enter employee details such as name, age, position, and salary.
+2. **Remove Employee**: Enables the user to remove an employee by entering their unique employee ID.
+3. **Update Employee**: Allows users to update employee details based on their employee ID.
+4. **View Employees**: Displays a list of all employees currently in the database.
+5. **Error Handling**: Gracefully handles invalid input and database errors.
+6. **Database Interaction**: Uses MySQL for storing and retrieving employee data.
+
+### Tools and Technologies  
+- **Language**: Java  
+- **Libraries**:  
+  - **Swing** for GUI components.  
+  - **AWT** for event handling and layout management.  
+- **Database**: MySQL  
+- **JDBC**: For database connection and operations.
