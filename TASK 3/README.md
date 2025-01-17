@@ -57,13 +57,6 @@ This system is primarily built using **Java** and **Swing** for the graphical us
    - The UI has buttons to perform each task in a compact, easily accessible manner.
    - The interface follows a **dark mode** design for better usability.
 
-## Future Enhancements
-
-- **Database Integration**: Currently, the system does not store data persistently. Integrating a database (like MySQL) would allow data to be saved and retrieved.
-- **User Management**: Allow for admin or user roles with varying levels of access to functionality.
-- **Advanced Search**: Add filters such as genre, publication year, and more.
-- **Book Reservation**: Implement functionality for reserving books.
-
 
 ## Contact
 
