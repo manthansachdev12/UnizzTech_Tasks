@@ -58,3 +58,24 @@ The **Employee Management System** is a Java application that uses **Swing**, **
   - **AWT** for event handling and layout management.  
 - **Database**: MySQL  
 - **JDBC**: For database connection and operations.
+
+## Week 3: Library Management System  
+
+### Task Description  
+The **Library Management System** is a Java application designed to manage books in a library. The system allows users to perform operations such as adding new books, updating book information, deleting books, and searching for books. It provides a GUI for user interactions and uses file handling for data persistence.
+
+### Features  
+1. **Add Book**: Adds new books to the system with details like title, author, publisher, and ISBN.
+2. **Update Book**: Updates information of an existing book by selecting its unique ISBN.
+3. **Delete Book**: Deletes a book from the system based on its ISBN.
+4. **Search Book**: Search for a book by title, author, or ISBN.
+5. **Dark Mode UI**: The system uses a modern dark mode interface for improved user experience.
+
+### Tools and Technologies  
+- **Language**: Java  
+- **Libraries**:  
+  - **Swing** for the GUI.  
+  - **AWT** for layout management and event handling.  
+  - **File Handling** for data persistence (can be extended to use a database).  
+- **File Formats**: Text files for storing book data.
+
