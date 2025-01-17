@@ -79,3 +79,6 @@ The **Library Management System** is a Java application designed to manage books
   - **File Handling** for data persistence (can be extended to use a database).  
 - **File Formats**: Text files for storing book data.
 
+## Contact
+
+For further inquiries, you can contact me at manthansachdev444@gmail.com
