@@ -7,7 +7,9 @@ This repository contains all the tasks and projects completed during my 1-month 
 - **Internship Duration**: 1 Month (21/12/2024 to 20/01/2025)  
 - **Domain**: Java Development  
 - **Tasks Completed**:  
-  - Week 1: Currency Converter  
+  - Week 1: Currency Converter
+  - Week 2: Employee Management System
+  - Week 3: Library Management System 
 
 ## Week 1: Currency Converter  
 
