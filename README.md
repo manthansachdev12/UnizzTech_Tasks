@@ -9,7 +9,8 @@ This repository contains all the tasks and projects completed during my 1-month 
 - **Tasks Completed**:  
   - Week 1: Currency Converter
   - Week 2: Employee Management System
-  - Week 3: Library Management System 
+  - Week 3: Library Management System
+  - Week 4: Hotel Reservation System
 
 ## Week 1: Currency Converter  
 
@@ -80,6 +81,40 @@ The **Library Management System** is a Java application designed to manage books
   - **AWT** for layout management and event handling.  
   - **File Handling** for data persistence (can be extended to use a database).  
 - **File Formats**: Text files for storing book data.
+
+## Week 4: Hotel Reservation System  
+
+### Task Description  
+The **Hotel Reservation System** is a Java-based desktop application developed using **Swing** for the graphical user interface (GUI) and **MySQL** for the database management. The system is designed for hotel receptionists and administrators to manage hotel room bookings, check room availability, assign services, and handle checkouts. The application also provides an admin login panel for secure access and efficient management.
+
+### Features  
+1. **Admin Login Panel**: A secure login page for admins to access and manage the hotel system.
+2. **Reception Panel**: Allows receptionists to view, add, and manage bookings, including customer details, room type, check-in, and check-out dates.
+3. **Booking Management**: Receptionists can create new bookings, view existing bookings, and manage customer information.
+4. **Room Details**: Displays available rooms and room types for customers to choose from.
+5. **Services Panel**: Allows receptionists to assign additional services to customers, such as room service or special requests.
+6. **Check Status**: Receptionists can check the status of bookings and services, including service requests and checkout status.
+7. **Checkout Panel**: Allows receptionists to mark bookings as completed and perform checkout procedures for customers.
+8. **Database Interaction**: The system is connected to a MySQL database for storing and retrieving customer data, bookings, services, and checkout details.
+9. **Admin Dashboard**: The admin dashboard allows viewing of all hotel bookings, services, and checkouts.
+
+### Tools and Technologies  
+- **Language**: Java  
+- **Libraries**:  
+  - **Swing** for GUI components.  
+  - **AWT** for event handling and layout management.  
+  - **JDBC** for MySQL database connection and operations.
+- **Database**: MySQL  
+- **Tools**:  
+  - **MySQL Workbench** for database management.
+  - **IntelliJ IDEA** for Java development.
+
+### Database Schema  
+The system uses the following tables in the **HotelDB** database:
+
+1. **Bookings**: Stores booking information, including customer name, room type, and check-in/check-out dates.
+2. **Services**: Records services requested by customers, including service type and room number.
+3. **Checkouts**: Tracks customer checkouts, including status and time of checkout.
 
 ## Contact
 
